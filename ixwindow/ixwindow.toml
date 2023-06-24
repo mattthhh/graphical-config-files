@@ -8,8 +8,10 @@ size = 20
 # Background color of your polybar
 color = "#1e1e1e"
 
-# Absolute coordinates of icon
-x = 600
+# Margin with the title 
+x = 10
+
+# Absolute coordinates from top of the screen
 y = 7
 
 # Amound of spaces in the title of the module, before title of the window

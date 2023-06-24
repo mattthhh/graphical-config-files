@@ -8,12 +8,12 @@ Feel free to pull request to complete [TODO list](#todo).
 - i3wm
 - picom
 - polybar
-- ixwindow
+- [ixwindow](https://github.com/mattthhh/ixwindow) (copy build to $PATH)
 - dmenu_run_history
 
 ## <p id="todo">TODO List
 
-- [ ] Add submodule for ixwindow and change source code to remove "Empty" when no window focused
+- [x] Add submodule for ixwindow and change source code to remove "Empty" when no window focused (link in dependencies)
 - [ ] Add bin from dmenu_run_history
-- [ ] Improve ixwindow to make icon dynamic position (close to the title)
+- [x] Improve ixwindow to make icon dynamic position (close to the title)
 - [ ] Maybe add Tilix (term) configuration with no title bar
