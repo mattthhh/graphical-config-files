@@ -3,6 +3,10 @@
 Just a repo with configurations files located at `$HOME/.config`.
 Feel free to pull request to complete [TODO list](#todo).
 
+## Demo
+
+![Demo](demo.gif)
+
 ## Dependencies
 
 - i3wm
