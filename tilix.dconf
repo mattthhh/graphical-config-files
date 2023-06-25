@@ -1,0 +1,32 @@
+[/]
+app-title='${activeTerminalTitle}'
+auto-hide-mouse=true
+copy-on-select=true
+focus-follow-mouse=true
+paste-strip-trailing-whitespace=false
+quake-specific-monitor=0
+session-name='${title}'
+terminal-title-show-when-single=false
+terminal-title-style='small'
+theme-variant='dark'
+window-save-state=true
+window-state=128
+window-style='disable-csd-hide-toolbar'
+
+[profiles]
+list=['2b7c4080-0ddd-46c5-8f23-563fd3ba789d', 'bd173f4a-ebc4-41d5-9528-750d0b86a55f']
+
+[profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
+cell-height-scale=1.0
+cell-width-scale=1.0
+cursor-blink-mode='on'
+cursor-shape='ibeam'
+palette=['#000000', '#AA0000', '#00AA00', '#AA5400', '#0000AA', '#AA00AA', '#00AAAA', '#AAAAAA', '#545454', '#FF5454', '#54FF54', '#FFFF54', '#5454FF', '#FF54FF', '#54FFFF', '#FFFFFF']
+terminal-bell='icon-sound'
+terminal-title='${title}'
+text-blink-mode='focused'
+use-theme-colors=true
+visible-name='comme matth aime'
+
+[profiles/bd173f4a-ebc4-41d5-9528-750d0b86a55f]
+visible-name='Défaut'
