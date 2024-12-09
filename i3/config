@@ -187,6 +187,9 @@ bindsym $mod+r mode "resize"
 
 default_border pixel 
 gaps inner 10px
+# exec --no-startup-id sleep 5; $HOME/.local/extend.sh; $HOME/.local/restart.sh
 exec_always --no-startup-id picom
+exec_always --no-startup-id dunst
 exec_always --no-startup-id $HOME/.config/polybar/start.sh
+exec --no-startup-id pasystray --notify=none
 exec tilix
